@@ -1,0 +1,9 @@
+A -> ESM
+B -> GHEYD
+C -> ESM
+D -> ESM
+E -> FEL
+F -> C D
+G -> B F
+H -> G E
+I -> A H
